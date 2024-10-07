@@ -13,7 +13,7 @@ To complete this challenge, follow the steps below:
    [https://github.com/Teradata/Possible2024_ML-Challenge.git](https://github.com/Teradata/Possible2024_ML-Challenge.git)
 
 2. **Explore the Business scenario and dataset**:
-   You are provided with a business scenario, a dataset, and prefilled steps in the Jupyter notebook `[customer_churn_machine_learning_challenge.ipynb](https://github.com/Teradata/Possible2024_ML-Challenge/blob/main/Customer_Churn_ML_Challenge.ipynb)`.
+   You are provided with a business scenario, a dataset, and prefilled steps in the Jupyter notebook [customer_churn_machine_learning_challenge.ipynb](https://github.com/Teradata/Possible2024_ML-Challenge/blob/main/Customer_Churn_ML_Challenge.ipynb).
 
 3. **Complete the pipeline**:
    The notebook is incomplete — your task is to identify the missing elements. Specifically, you'll need to:
