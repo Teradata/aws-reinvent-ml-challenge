@@ -12,7 +12,7 @@ To complete this challenge, follow the steps below:
    Begin by forking the following repository to your own GitHub account:
    [https://github.com/Teradata/Possible2024_ML-Challenge.git](https://github.com/Teradata/Possible2024_ML-Challenge.git)
 
-2. **Business scenario and dataset**:
+2. **Explore the Business scenario and dataset**:
    You are provided with a business scenario, a dataset, and prefilled steps in the Jupyter notebook `customer_churn_machine_learning_challenge.ipynb`.
 
 3. **Complete the pipeline**:
