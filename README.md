@@ -25,10 +25,11 @@ To complete this challenge, follow the steps below:
    You'll find hints in the notebook's markdown cells to help you along the way. Refer to the [Teradata documentation](https://docs.teradata.com/r/Enterprise_IntelliFlex_VMware/Database-Analytic-Functions/Introduction-to-Analytics-Database-Analytic-Functions) for guidance on the missing functions and steps.
 
 4. **Access a Free Teradata Environment**:
-    You can access a free Teradata Vantage enviornment on [https://www.teradata.com/getting-started/demos/clearscape-analytics](ClearScape Analytic Experience site) to execute your functions against the dataset and prep your data.
+    You can access a free Teradata Vantage enviornment on [ClearScape Analytic Experience site](https://www.teradata.com/getting-started/demos/clearscape-analytics) to execute your functions against the dataset and prep your data.
 
 5. **Submit your solution**:
    Once you've completed the notebook, submit the forked repo link to  to [Developer Relations](mailto:DR2300682@Teradata.com).
 
 ## Prize
-By completing this challenge, you will be entered into a raffle to win a **Star Wars Lego Set $100 Value**  Make sure to submit your solution to qualify for the raffle.
+By completing this challenge, you will be entered into a raffle to win a **Star Wars Lego Set $100 Value**!!! 
+Make sure to submit your solution to qualify for the raffle.
