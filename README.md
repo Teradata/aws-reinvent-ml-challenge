@@ -26,8 +26,9 @@ To complete this challenge, follow the steps below:
 
 4. **Access a Free Teradata Environment**:
     You can access a free Teradata Vantage enviornment on [ClearScape Analytic Experience site](https://www.teradata.com/getting-started/demos/clearscape-analytics) to execute your functions against the dataset and test your solution to prep the data.
+   - Please include your full name and organization 
 
-5. **Submit your solution**:
+6. **Submit your solution**:
    Once you've completed the notebook, submit the forked repo link to  to [Developer Relations DR2300682@Teradata.com](mailto:DR2300682@Teradata.com).
 
 ## Prize
