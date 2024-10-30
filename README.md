@@ -2,7 +2,7 @@
 
 ## Overview
 
-Data preparation is a very important step in Machine Learning, but it can often be tedious and time-consuming. In fact, 80% of the time spent developing ML pipelines is typically dedicated to data preparation. Teradata simplifies this process with its powerful in-database analytic functions. In this challenge, you'll complete building a data preparation pipeline, but with a twist — we've removed the function names! By solving this challenge, you'll gain hands-on experience with Teradata's ClearScape Analytics and learn how it can make your data preparation tasks easier and more efficient. You will later use the data to do large language model inferencing using [Amazon Bedrock](https://aws.amazon.com/bedrock/). Complete the challenge for an opportunity to enter a raffle and win a **TBD -  $1000 Value**!!! 
+Data preparation is a very important step in Machine Learning, but it can often be tedious and time-consuming. In fact, 80% of the time spent developing ML pipelines is typically dedicated to data preparation. Teradata simplifies this process with its powerful in-database analytic functions. In this challenge, you'll complete building a data preparation pipeline, but with a twist — we've removed the function names! By solving this challenge, you'll gain hands-on experience with Teradata's ClearScape Analytics and learn how it can make your data preparation tasks easier and more efficient. You will later use the data to do large language model inferencing using [Amazon Bedrock](https://aws.amazon.com/bedrock/). Complete the challenge (it should take less than 30 minutes) for an opportunity to enter a raffle and win a **TBD -  $1000 Value**!!! 
 
 ## Instructions
 
