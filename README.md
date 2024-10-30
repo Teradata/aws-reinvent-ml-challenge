@@ -1,4 +1,4 @@
-# Possible 2024 ML Challenge
+# AWS re:invent 2024 ML Challenge
 
 ## Overview
 
