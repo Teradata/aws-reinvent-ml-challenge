@@ -2,7 +2,7 @@
 
 ## Overview
 
-Data preparation is a very important step in Machine Learning, but it can often be tedious and time-consuming. In fact, 80% of the time spent developing ML pipelines is typically dedicated to data preparation. Teradata simplifies this process with its powerful in-database analytic functions. In this challenge, you'll complete building a data preparation pipeline, but with a twist — we've removed the function names! By solving this challenge, you'll gain hands-on experience with Teradata's ClearScape Analytics and learn how it can make your data preparation tasks easier and more efficient. Complete the challenge for an opportunity to enter a raffle and win a **Star Wars Lego Set -  $100 Value**!!! 
+Data preparation is a very important step in Machine Learning, but it can often be tedious and time-consuming. In fact, 80% of the time spent developing ML pipelines is typically dedicated to data preparation. Teradata simplifies this process with its powerful in-database analytic functions. In this challenge, you'll complete building a data preparation pipeline, but with a twist — we've removed the function names! By solving this challenge, you'll gain hands-on experience with Teradata's ClearScape Analytics and learn how it can make your data preparation tasks easier and more efficient. You will later use the data to do large language model inferencing using [Amazon Bedrock](https://aws.amazon.com/bedrock/). Complete the challenge for an opportunity to enter a raffle and win a **TBD -  $1000 Value**!!! 
 
 ## Instructions
 
@@ -10,10 +10,10 @@ To complete this challenge, follow the steps below:
 
 1. **Fork the repository**:
    Begin by forking the following repository to your own GitHub account: 
-   [https://github.com/Teradata/Possible2024_ML-Challenge.git](https://github.com/Teradata/Possible2024_ML-Challenge.git)
+   [https://github.com/Teradata/aws-reinvent-ml-challenge.git](https://github.com/Teradata/aws-reinvent-ml-challenge.git)
 
 2. **Explore the Business scenario and dataset**:
-   You are provided with a business scenario, a dataset, and prefilled steps in the Jupyter notebook [customer_churn_machine_learning_challenge.ipynb](https://github.com/Teradata/Possible2024_ML-Challenge/blob/main/Customer_Churn_ML_Challenge.ipynb).
+   You are provided with a business scenario, a dataset, and prefilled steps in the Jupyter notebook [customer_churn_machine_learning_challenge.ipynb](https://github.com/Teradata/aws-reinvent-ml-challenge/blob/main/Customer_Churn_ML_Challenge.ipynb).
 
 3. **Complete the pipeline**:
    The notebook is incomplete — your task is to identify the missing elements. Specifically, you'll need to:
@@ -32,5 +32,5 @@ To complete this challenge, follow the steps below:
    Once you've completed the notebook, submit the forked repo link to  to [Developer Relations DR2300682@Teradata.com](mailto:DR2300682@Teradata.com).
 
 ## Prize
-By completing this challenge, you will be entered into a raffle to win a **Star Wars Lego Set $100 Value**!!! 
+By completing this challenge, you will be entered into a raffle to win a **TBD - $1000 Value**!!! 
 Make sure to submit your solution to qualify for the raffle.
