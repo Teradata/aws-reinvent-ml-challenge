@@ -2,35 +2,9 @@
 
 ## Overview
 
-Data preparation is a very important step in Machine Learning, but it can often be tedious and time-consuming. In fact, 80% of the time spent developing ML pipelines is typically dedicated to data preparation. Teradata simplifies this process with its powerful in-database analytic functions. In this challenge, you'll complete building a data preparation pipeline, but with a twist — we've removed the function names! By solving this challenge, you'll gain hands-on experience with Teradata's ClearScape Analytics and learn how it can make your data preparation tasks easier and more efficient. You will later use the data to do large language model inferencing using [Amazon Bedrock](https://aws.amazon.com/bedrock/). Complete the challenge (it should take less than 30 minutes) for an opportunity to enter a raffle and win a **TBD -  $1000 Value**!!! 
+Data preparation is a very important step in Machine Learning, but it can often be tedious and time-consuming. In fact, 80% of the time spent developing ML pipelines is typically dedicated to data preparation. Teradata simplifies this process with its powerful in-database analytic functions. In this challenge, you'll complete building a data preparation pipeline, but with a twist — we've removed the function names! By solving this challenge, you'll gain hands-on experience with Teradata's ClearScape Analytics and learn how it can make your data preparation tasks easier and more efficient. Complete the challenge (it should take less than 30 minutes) for an opportunity to enter a raffle and win a prize!!! 
 
 ## Instructions
 
-To complete this challenge, follow the steps below:
-
-1. **Fork the repository**:
-   Begin by forking the following repository to your own GitHub account: 
-   [https://github.com/Teradata/aws-reinvent-ml-challenge.git](https://github.com/Teradata/aws-reinvent-ml-challenge.git)
-
-2. **Explore the Business scenario and dataset**:
-   You are provided with a business scenario, a dataset, and prefilled steps in the Jupyter notebook [customer_churn_machine_learning_challenge.ipynb](https://github.com/Teradata/aws-reinvent-ml-challenge/blob/main/Customer_Churn_ML_Challenge.ipynb).
-
-3. **Complete the pipeline**:
-   The notebook is incomplete — your task is to identify the missing elements. Specifically, you'll need to:
-
-   - Identify and import the necessary libraries.
-   - Fill in the missing ClearScape Analytics functions for data preparation.
-   - Add any additional data preprocessing steps required.
-
-   You'll find hints in the notebook's markdown cells to help you along the way. Refer to the [Teradata documentation](https://docs.teradata.com/r/Enterprise_IntelliFlex_VMware/Database-Analytic-Functions/Introduction-to-Analytics-Database-Analytic-Functions) for guidance on the missing functions and steps.
-
-4. **Access a Free Teradata Environment**:
-    You can access a free Teradata Vantage enviornment on [ClearScape Analytic Experience site](https://www.teradata.com/getting-started/demos/clearscape-analytics) to execute your functions against the dataset and test your solution to prep the data.
-   - Please include your full name and organization 
-
-6. **Submit your solution**:
-   Once you've completed the notebook, submit the forked repo link to  to [Developer Relations DR2300682@Teradata.com](mailto:DR2300682@Teradata.com).
-
-## Prize
-By completing this challenge, you will be entered into a raffle to win a **TBD - $1000 Value**!!! 
-Make sure to submit your solution to qualify for the raffle.
+* The instructions to participate can be found in the corresponding registration form at: TBD
+* The challenge is only open to participants with badge scanned at the Teradata booth at re:invent 2024.
